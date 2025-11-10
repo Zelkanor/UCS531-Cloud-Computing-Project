@@ -6,6 +6,7 @@ This project is a complete, serverless Retrieval-Augmented Generation (RAG) pipe
 The system is designed to be scalable, asynchronous, and cost-effective, using AWS Lambda for compute, S3 for storage, DynamoDB as a vector-capable database, and Amazon Bedrock (with the DeepSeek model) for text generation.
 
 ## 📁 Project Structure
+```
 .
 ├── docs/
 │ ├── 1_AWS_Setup.md
@@ -27,6 +28,7 @@ The system is designed to be scalable, asynchronous, and cost-effective, using A
 │
 ├── index.ipynb
 └── README.md
+```
 
 ### 🧩 Directory Overview
 
