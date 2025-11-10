@@ -102,7 +102,7 @@ The full implementation is broken down into logical parts. Please see the guides
         
 *   **Part 2: The Upload Endpoint**
     
-    *   [Guide to creating the get\_presigned\_url Lambda and POST /upload-url API.](docs/2-Upload_Endpoint.md.md)
+    *   [Guide to creating the get\_presigned\_url Lambda and POST /upload-url API.](docs/2-Upload_Endpoint.md)
         
 *   **Part 3: Asynchronous Ingestion Pipeline**
     
