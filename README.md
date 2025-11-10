@@ -9,11 +9,11 @@ The system is designed to be scalable, asynchronous, and cost-effective, using A
 ```
 .
 ├── docs/
-│ ├── 1_AWS_Setup.md
-│ ├── 2_API_Gateway.md
-│ ├── 3_Data_Ingestion.md
-│ ├── 4_RAG_Query_API.md
-│ └── 5_Testing_Scripts.md
+│ ├── 1-AWS_Setup.md
+│ ├── 2-Upload_Endpoint.md.md
+│ ├── 3-Data_Ingestion.md
+│ ├── 4-RAG_Query_API.md
+│ └── 5-Testing_Scripts.md
 │
 ├── pdfs/
 │ └── (sample PDF papers go here)
